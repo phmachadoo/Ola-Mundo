@@ -1,6 +1,6 @@
 # Olá, Mundo!
 Primeiro repositório do curso de Git e GitHub
 
-Mais uma atualização.
+Essa linha representa uma atualização para o GitHub.
 
 
